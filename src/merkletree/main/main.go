@@ -1,5 +1,6 @@
 package main
 // this is release 0
+// this is release 1
 import (
 	"crypto"
 	"crypto/rand"
